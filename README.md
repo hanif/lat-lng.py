@@ -25,8 +25,8 @@ chmod a+x lat-lng
 ./lat-lng --address "Bantul"
 > (-7.8748176, 110.3255365)
 
-./lat-lng --address "Yogyakarta, 55238"
-> (-7.7903397, 110.3783083)
+./lat-lng --address "Jalan Ringroad Barat, Yogyakarta"
+> (-7.782989300000001, 110.3311353)
 
 # shortcut 
 ./lat-lng -a "Solo, Indonesia"
